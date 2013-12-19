@@ -1,0 +1,4 @@
+Palindrome-Detector
+===================
+
+Detects palindromes
